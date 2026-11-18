@@ -1,0 +1,7 @@
+[
+  { "employeeId": "E-1001", "field": "hours",      "value": 40,          "effectiveFrom": "2026-01-01", "enteredAt": "2026-01-02" },
+  { "employeeId": "E-1001", "field": "department", "value": "Sales",     "effectiveFrom": "2026-01-01", "enteredAt": "2026-01-02" },
+  { "employeeId": "E-1001", "field": "department", "value": "Marketing", "effectiveFrom": "2026-03-01", "enteredAt": "2026-03-03" },
+  { "employeeId": "E-1001", "field": "hours",      "value": 32,          "effectiveFrom": "2026-03-01", "enteredAt": "2026-04-10" },
+  { "employeeId": "E-1001", "field": "department", "value": "Marketing", "effectiveFrom": "2026-02-15", "enteredAt": "2026-04-15" }
+]
